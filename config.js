@@ -10,9 +10,9 @@ const config = {
     // COMPANY DETAILS
     // -----------------------------------------------------------------
     company: {
-        name: "Dipper Flippers",
-        subtitle: "Powered by Nine Seven Builders LLC",
-        slogan: "Flip Fast. Flip Smart. Flip with Dipper.",
+        name: "Flipper Dippers",
+        subtitle: "Powered by El cheapo Builders LLC",
+        slogan: "Flip Fast. Flip Smart. Dip with Flipper.",
         // Your logo.png and favicon.ico must be in the /assets/ folder
         logo: "/assets/logo.png",
         favicon: "/assets/favicon.ico"
